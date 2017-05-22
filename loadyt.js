@@ -1,4 +1,4 @@
-document.onload = function()
+window.onload = function()
 {
 	var frame = document.getElementById("frame");
 	var links = ["TtHukQpboyk", "WK2siEQsADk", "AOai94e3MhE"];
