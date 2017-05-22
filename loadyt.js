@@ -2,12 +2,19 @@ window.onload = function()
 {
 	var frame = document.getElementById("frame");
 	var links = [
-		"TtHukQpboyk",
-		"WK2siEQsADk",
-		"AOai94e3MhE",
-		"FD-gPBP-FLk",
-		"sG9tKEV510s",
-		"kgXPF3EhZNs"
+		"TtHukQpboyk",			// GDO OP
+		"WK2siEQsADk",			// HS AIWDIMLTY
+		"AOai94e3MhE",			// HS Shoot to Thrill
+		"FD-gPBP-FLk",			// GDO End
+		"sG9tKEV510s",			// Kobayashi OP
+		"kgXPF3EhZNs",			// KonoSuba 2 OP
+		"u9Dg-g7t2l4",			// Disturbed SOS
+		"ggWTIRGTHBI",			// KonoSuba 2 End
+		"s4nWy8pmIM4",			// Barracuda
+		"ZXhuso4OTG4",			// Renegade
+		"NKPOCJKBdmc",			// -I buy sausage
+		"ieQ1rAIjzXc",			// I buy sausage
+		
 	];
 	var prefix = "https://www.youtube.com/embed/"
 	var postfix = "?autoplay=1"
