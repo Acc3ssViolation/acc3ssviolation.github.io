@@ -69,6 +69,4 @@ window.onload = function()
 			a[j] = x;
 		}
 	}
-	
-	frame.src = prefix + randomLink + postfix;
 }
