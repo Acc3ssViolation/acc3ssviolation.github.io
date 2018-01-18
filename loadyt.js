@@ -33,7 +33,7 @@ window.onload = function()
 	
 	// create youtube player
         var player;
-        function onYouTubePlayerAPIReady() {
+        function onYouTubeIframeAPIReady() {
             player = new YT.Player('player', {
               width: '0',
               height: '0',
